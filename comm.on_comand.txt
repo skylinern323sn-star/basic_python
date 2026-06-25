@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+git commit -m "message"
+git log
+git branch
+git checkout -b DEV-123254
+git push
+git pull
+git fetch
+git merge
