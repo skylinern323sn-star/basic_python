@@ -4,7 +4,7 @@ git add .
 git commit -m "message"
 git log
 git branch
-git checkout -b DEV-123254
+git checkout -b DEV-123254 (homework_lesson_12)
 git push
 git pull
 git fetch
